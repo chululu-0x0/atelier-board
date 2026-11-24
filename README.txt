@@ -1,3 +1,4 @@
+v0.7: 230ms長押し移動・アイテムロック。ロック中は接続と解除のみ。カラムをロックすると所属アイテムも編集不可。
 v0.6: カラム、アイテム別ツールバー、直接編集、スペクトラム、慣性調整。
 Atelier Board v0.3 / 試作品
 GitHub Pages: 新規リポジトリのルートにこのZIP内のファイルをすべて置き、Settings > Pages > Deploy from a branch > main / root を選択。公開されたHTTPS URLをiPadのSafariで開き、共有メニューからホーム画面に追加。
