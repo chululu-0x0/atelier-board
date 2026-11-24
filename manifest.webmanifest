@@ -1,1 +1,13 @@
-{"name":"Atelier Board","short_name":"Atelier","lang":"ja","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f2f7","theme_color":"#faf9fc","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Atelier Board",
+  "short_name": "Atelier",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf9fc",
+  "theme_color": "#faf9fc",
+  "lang": "ja",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
