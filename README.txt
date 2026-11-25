@@ -1,4 +1,4 @@
-Atelier Board v1.8
+Atelier Board v1.9
 既存のGitHub Pagesリポジトリの index.html と sw.js を更新してください。更新前に書き出しでバックアップしてください。ZIPには新規設置用の全6ファイルを含みます。
 
 変更点：
@@ -10,3 +10,6 @@ Atelier Board v1.8
 ・アンドゥを最大30操作に調整。カメラ移動やズームを取り消し対象から除外。
 
 ChromiumでHTMLを直接読み込んだテストを実施。iPad実機のステータスバー・タッチ操作・IndexedDB永続保存・PWA更新は未検証。
+
+
+v1.9: 歯車 → キーボード。TourBox Consoleで E/Q（拡大/縮小）、D/A（右/左回転）、W/S（前面/背面）を設定。変更したキーはこの端末のlocalStorageに保存。
