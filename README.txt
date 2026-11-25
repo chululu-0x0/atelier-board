@@ -1,4 +1,4 @@
-Atelier Board v1.7
+Atelier Board v1.8
 既存のGitHub Pagesリポジトリの index.html と sw.js を更新してください。更新前に書き出しでバックアップしてください。ZIPには新規設置用の全6ファイルを含みます。
 
 変更点：
